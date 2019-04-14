@@ -1,6 +1,8 @@
 # doc
 ## docker
 * [docker install](./docker/docker_install.md)
-* [docker_without_sudo](./docker/docker_without_sudo.md)
+* [docker without sudo](./docker/docker_without_sudo.md)
+* [docker pull](./docker/docker_pull.md)
+* [docker run](./docker/docker_run.md)
 ## go
-* [go_env](./go/go_env.md)
+* [go env](./go/go_env.md)
