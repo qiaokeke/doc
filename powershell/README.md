@@ -1,2 +1,2 @@
 ## content
-* env[./env.md]
+* [env](./env.md)
