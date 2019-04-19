@@ -7,3 +7,4 @@
 * [dockerfile example](./docker/dockerfile/dockerfile_example.md)
 ## [go](./go/README.md)
 * [go env](./go/go_env.md)
+## [powershell](./powershell/)
