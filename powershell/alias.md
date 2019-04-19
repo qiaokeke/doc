@@ -4,7 +4,10 @@
 
 ## New-Alias
 ```
+cd alias:
 New-Alias -Name fs -Value findstr
+
+New-Item -Path Alias:np -Value c:\windows\notepad.exe
 ```
 
 ## Get-Location
