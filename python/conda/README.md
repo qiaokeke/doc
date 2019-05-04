@@ -1,2 +1,2 @@
 ### conda
-* env[./env.md]
+* [env](./env.md)
