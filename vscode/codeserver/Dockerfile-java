@@ -1,0 +1,14 @@
+### 预备
+* https://github.com/cdr/code-server/blob/master/Dockerfile
+### 
+
+```
+FROM codercom/code-server
+
+USER root
+
+RUN apt install openjdk-8-jdk
+
+ENTRYPOINT ["dumb-init", "code-server"]
+
+```
