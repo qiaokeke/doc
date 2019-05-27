@@ -7,7 +7,11 @@ FROM codercom/code-server
 
 USER root
 
-RUN apt install openjdk-8-jdk
+RUN apt update && apt upgrade -y && apt install -y openjdk-8-jdk && mkdir /work
+
+WORKDIR /work
+
+VOLUME [ "/work" ]
 
 ENTRYPOINT ["dumb-init", "code-server"]
 
