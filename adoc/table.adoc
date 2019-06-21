@@ -1,3 +1,5 @@
+* http://asciidoc.org/userguide.html#_tables
+
 [width="15%"]
 |=======
 |1 |2 |A
@@ -15,3 +17,4 @@
 |4       |Item 4  |Item 4
 |footer 1|footer 2|footer 3
 |==========================
+
